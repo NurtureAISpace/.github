@@ -5,7 +5,7 @@
   <p><em>Autonomous Deep-Space Nutrition, Thermodynamic Degradation Kinetics & Life Support Optimization System</em></p>
 
   <p>
-    <a href="https://nasainternationalspaceappschallengeganja2026.github.io/">
+    <a href="https://nasainternatispaceappchallengeganja2026.github.io/">
       <img src="https://img.shields.io/badge/Live_Portal-Launch_Web_Application-orange?style=for-the-badge&logo=rocket" alt="Live Portal" />
     </a>
     <a href="mailto:suleyman.hacizade1@gmail.com">
@@ -33,7 +33,7 @@ On a long-duration human mission to Mars (such as the target **Sol-450** milesto
 
 The interactive web portal is deployed and running live on GitHub Pages with zero server lag:
 
-👉 **[https://nasainternationalspaceappschallengeganja2026.github.io/](https://nasainternationalspaceappschallengeganja2026.github.io/)**
+👉 **[https://nasainternatispaceappchallengeganja2026.github.io/](https://nasainternatispaceappchallengeganja2026.github.io/)**
 
 Visitors, researchers, and jury members can interact with:
 1. **Executive Sol-450 Mission Dashboard:** Timeline scrubber, Food Security Index gauge, crop harvest yield, and cooling load.
