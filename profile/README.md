@@ -9,7 +9,8 @@
   <p>
     <a href="https://nurtureaispace.github.io"><strong>Open the Live Demo »</strong></a> • 
     <a href="https://nurtureaispace.github.io/app/"><strong>Astronaut App »</strong></a> • 
-    <a href="https://nurtureaispace.github.io/slides.html"><strong>Official 7-Slide Deck »</strong></a>
+    <a href="https://nurtureaispace.github.io/slides.html"><strong>Official 7-Slide Deck »</strong></a> • 
+    <a href="certificates/NASA_Space_Apps_Challenge_2026_Certificate.pdf"><strong>NASA Certificate »</strong></a>
   </p>
 </div>
 
@@ -28,6 +29,7 @@
 - **Astronaut App (Offline-First Daily Check-In):** [https://nurtureaispace.github.io/app/](https://nurtureaispace.github.io/app/)
 - **Official 7-Slide Pitch Deck:** [https://nurtureaispace.github.io/slides.html](https://nurtureaispace.github.io/slides.html)
 - **Primary Source Code:** [https://github.com/NurtureAISpace/mars-food-intelligence](https://github.com/NurtureAISpace/mars-food-intelligence)
+- **Official NASA Galactic Problem Solver Certificate:** [View Certificate PDF](certificates/NASA_Space_Apps_Challenge_2026_Certificate.pdf) • [Verified Credential Dossier](https://suleimancertificates.github.io/certificates/nasa-space-apps-challenge-2026/)
 - **Live Deployment Repository:** [https://github.com/NurtureAISpace/NurtureAISpace.github.io](https://github.com/NurtureAISpace/NurtureAISpace.github.io)
 
 ---
